@@ -1,0 +1,16 @@
+﻿global using AutoMapper;
+global using minimal_api.Entities.DbContexts;
+global using minimal_api.Models;
+global using minimal_api.Services;
+global using minimal_api.Models;
+global using Microsoft.AspNetCore.DataProtection;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.OpenApi.Models;
+global using AutoMapper;
+global using minimal_api.Entities;
+global using Microsoft.AspNetCore.DataProtection;
+global using Microsoft.AspNetCore.Authentication.JwtBearer;
+global using Microsoft.AspNetCore.Authorization;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.IdentityModel.Tokens;
+global using System.Text;
